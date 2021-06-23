@@ -2,7 +2,7 @@
 
 La sveglia sta suonando, ma non succede niente
 mentre mi sveglio apro gli occhi guardo l'ora che è di molto maggiore da quello che ho programmato
-scendo dal letto se ci sono vicino dei vestiti mi cambio 
+scendo dal letto e se ci sono vicino dei vestiti mi cambio 
 altrimenti li tiro fuori dall'armadio e poi mi vesto
 scendendo mi rendo conto che non ho tempo di mangiare e salto la colazione
 vado in garage per andara dall'auto
@@ -13,13 +13,19 @@ altrimenti prendo le chiavi in maniera normale
 ritorno alla macchina
 la macchina parte
 esci dal garage
+se la macchina si accende
+allora può partire e andare in uffico
+altrimenti deve chiamare il meccanico,
+se mentre prova a far partire la macchina
+e non parte allora aumenta il ritardo
+sennò ritarno è sempre lo stesso
 ...
 
 Parcheggia l'auto di fronte all'ufficio
 prende l'ascensore
 arriva al secondo piano
 si siede alla scrivania
-se il computer ci x secondi per avviarsi  allora:
+se il computer ci mette x secondi per avviarsi  allora:
 si prende un caffè, altrimenti,
 va a timbrare e continua a mettere apposto l'ufficio per inizire
 il boss si avvicina e lo guarda male...
