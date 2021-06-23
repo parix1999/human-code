@@ -1,0 +1,21 @@
+// Traccia 5: La sveglia sta suonando da tanto tempo, svegliati e vai in ufficio!.
+
+La sveglia sta suonando, ma non succede niente
+mentre mi sveglio apro gli occhi guardo l'ora che è di molto maggiore da quello che ho programmato
+scendo dal letto se ci sono vicino mi cambio altrimenti li tiro fuori dall'armadio
+scendendo mi rendo conto che non ho tempo di mangiare e salto la colazione
+vado in garage per andara dall'auto
+mentre vado in garage mi accorgo di non avere le chiave
+nella fretta inciampo 
+se la caviglia è rotta striscio per prendere le chiavi
+altrimenti prendo le chiavi
+ritorno alla macchina
+la macchina parte
+esci dal garage
+...
+
+Parcheggia l'auto di fronte all'ufficio
+prende l'ascensore
+arriva al secondo piano
+si siede alla scrivania
+il boss si avvicina e lo guarda male...
